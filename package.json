@@ -1,27 +1,20 @@
+
 {
-  "name": "react-native-musicmeta",
-  "version": "0.0.1",
-  "author": "Dan O'Neill",
-  "private": false,
-  "license": "Unlicense",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/MrToph/react-native-android-library-boilerplate.git"
-  },
-  "bugs": {
-    "url": "https://github.com/MrToph/react-native-android-library-boilerplate/issues"
-  },
-  "homepage": "https://github.com/MrToph/react-native-android-library-boilerplate",
-  "keywords": [
-    "react-native",
-    "android",
-    "library"
-  ],
+  "name": "react-native-music-meta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "start": "node node_modules/react-native/local-cli/cli.js start",
-    "test": "jest"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "",
+  "license": "",
   "peerDependencies": {
-    "react-native": ">=0.38.0"
+    "react-native": "^0.41.2",
+    "react-native-windows": "0.41.0-rc.1"
+
   }
 }
